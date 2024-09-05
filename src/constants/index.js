@@ -4,7 +4,7 @@ export const HERO_CONTENT = `Hello, I'm a seasoned singer offering live, tailore
 
 export const ABOUT_TEXT = `I am a singer with over a decade of performing experience with choral choirs, and four years with the South African Navy Band. I am a seasoned songstress  and my singing style is in theatre musicals, opera arias, and jazz. My journey as a solo vocalist has led me to perform at a variety of private events, including corporate functions, weddings, high teas, and gala dinners.
 
-I am dedicated to crafting unique and memorable musical experiences. I offer back tracks and live accompaniment performances to create a special atmosphere tailored to each event. My commitment is to ensure that every performance aligns with my clients' needs, making their event truly unforgettable.
+I am dedicated to crafting unique and memorable musical experiences. I offer back tracks and live accompaniment performances to create a special atmosphere tailored to each event. My commitment is to ensure that every performance aligns with my clients' needs, making your event truly memorable.
 
 Additionally, I collaborate with local bands, bringing versatility and passion to a range of musical projects. Please explore my portfolio to see how I can enhance your next event with exceptional live music.
 
