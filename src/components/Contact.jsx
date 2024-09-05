@@ -12,7 +12,7 @@ const Contact = () => {
             <div className="text-center tracking-tighter flex items-center gap-4 lg:justify-center">
                 <a className="text-decoration-none" href="https://www.instagram.com/ndilisa.thesongstress/"><FaInstagram /></a>
                 <a className="text-decoration-none" href="https://www.facebook.com/profile.php?id=61564416838280"><FaFacebook /></a>
-                <a className="text-decoration-none" href="bookings4ndilisa@outlook.com"><AiFillMail /></a> 
+                <a className="text-decoration-none" href="https://outlook.live.com/mail/0/?ui=en-US&rs=US&auth=1"><AiFillMail /></a> 
             </div>
         </div>
     )
