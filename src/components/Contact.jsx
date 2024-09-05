@@ -1,9 +1,8 @@
 import React from 'react';
 
 import { FaInstagram } from 'react-icons/fa';
-import { FaFacebook } from 'react-icons/fa';
-import { FaPhone } from 'react-icons/fa';
-import { FaVoicemail } from 'react-icons/fa';
+import { FaFacebook } from 'react-icons/fa';;
+import { AiFillMail } from "react-icons/ai";
 import { CONTACT } from '../constants';
 
 const Contact = () => {
@@ -13,7 +12,7 @@ const Contact = () => {
             <div className="text-center tracking-tighter flex items-center gap-4 lg:justify-center">
                 <a className="text-decoration-none" href="https://www.instagram.com/ndilisa.thesongstress/"><FaInstagram /></a>
                 <a className="text-decoration-none" href="https://www.facebook.com/profile.php?id=61564416838280"><FaFacebook /></a>
-                <a className="text-decoration-none" href="bookings4ndilisa@outlook.com"><FaVoicemail /></a> 
+                <a className="text-decoration-none" href="bookings4ndilisa@outlook.com"><AiFillMail /></a> 
             </div>
         </div>
     )

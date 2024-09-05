@@ -10,8 +10,10 @@ const Navbar = () => {
           
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+          {/*
           <a href="https://www.instagram.com/ndilisa.thesongstress/"><FaInstagram /></a>
           <a href="https://www.facebook.com/profile.php?id=61564416838280"><FaFacebook /></a>
+          */}
         </div>
       </nav>
     )
