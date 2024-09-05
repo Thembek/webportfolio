@@ -2,7 +2,13 @@
 
 export const HERO_CONTENT = `Hello, I'm a seasoned singer offering live, tailored performances designed to make your event truly memorable. Let's create an unforgettable experience together through the power of music.`;
 
-export const ABOUT_TEXT = `With over a decade of experience performing with choral and four years with the South African Navy band, I am a seasoned songstress specializing in theatre musicals, opera arias, and jazz. My journey as a vocalist has led me to perform at a variety of private events, including  corporate functions, weddings, high teas, and gala dinners. As I develop my solo brand, I am dedicated to crafting unique and memorable musical experiences. I offer both back tracks and live accompaniment to create a special atmosphere tailored to each event. My commitement is to ensure that every performance aligns with my clients' needs, making their event truly unforgettable. Connect with me  Follow me on social media to stay updated on my latest performances, collaborations, and upcoming events. Let's create something extraordinary together.`;
+export const ABOUT_TEXT = `I am a singer with over a decade of performing experience with choral choirs, and four years with the South African Navy Band. I am a seasoned songstress  and my singing style is in theatre musicals, opera arias, and jazz. My journey as a solo vocalist has led me to perform at a variety of private events, including corporate functions, weddings, high teas, and gala dinners.
+
+I am dedicated to crafting unique and memorable musical experiences. I offer back tracks and live accompaniment performances to create a special atmosphere tailored to each event. My commitment is to ensure that every performance aligns with my clients' needs, making their event truly unforgettable.
+
+Additionally, I collaborate with local bands, bringing versatility and passion to a range of musical projects. Please explore my portfolio to see how I can enhance your next event with exceptional live music.
+
+Book me, and let’s create something extraordinary together!`;
 
 export const EXPERIENCES = [
   {
